@@ -1,4 +1,4 @@
-Gravitational Wave Astrophysics lecture | Summer Term 2019 | Potsdam University
+[Gravitational Wave Astrophysics lecture](https://git.aei.mpg.de/hpfeiffer/GWAstro2019) | Summer Term 2019 | Potsdam University
 
 # Problem Set 1
 
